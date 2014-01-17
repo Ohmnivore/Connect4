@@ -1,0 +1,6 @@
+{
+  "venv": "", 
+  "name": "connect4", 
+  "license": "GNU General Public License v3", 
+  "description": "In-terminal online multiplayer connect 4 clone using UniCurses. Cross-platform."
+}
